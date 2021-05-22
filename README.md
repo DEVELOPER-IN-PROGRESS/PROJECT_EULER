@@ -1,2 +1,1 @@
-# PROJECT_EULER
-Solution for  project euler challenges 
+Find the sum of all the primes below two million.
